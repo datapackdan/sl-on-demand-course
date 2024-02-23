@@ -168,6 +168,7 @@ metrics:
         - name: "food_order_pct"
 #Added by Dan for course
   - name: "order_gross_profit"
+    label: "order_gross_profit"
     description: "Gross profit from each order."
     type: derived
     type_params:
